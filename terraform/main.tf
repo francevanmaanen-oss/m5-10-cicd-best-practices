@@ -61,6 +61,8 @@ resource "aws_s3_bucket_lifecycle_configuration" "artifacts" {
   rule {
     id     = "archive-old-artifacts"
     status = "Enabled"
+
+    filter {}
  
     transition {
       days          = 90
