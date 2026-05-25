@@ -1,10 +1,4 @@
 # CI/CD Best Practices — Terraform Infrastructure
- 
-![CI Pipeline](https://github.com/francevanmaanen-oss/ce-lab-cicd-best-practices/actions/workflows/ci.yml/badge.svg)
-![CD Pipeline](https://github.com/francevanmaanen-oss/ce-lab-cicd-best-practices/actions/workflows/cd.yml/badge.svg)
-![Commit Lint](https://github.com/francevanmaanen-oss/ce-lab-cicd-best-practices/actions/workflows/commit-lint.yml/badge.svg)
-![Release](https://github.com/francevanmaanen-oss/ce-lab-cicd-best-practices/actions/workflows/release.yml/badge.svg)
- 
 ## Architecture
  
 This repository manages shared infrastructure resources:
